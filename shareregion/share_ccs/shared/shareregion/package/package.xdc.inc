@@ -1,0 +1,13 @@
+package.xdc
+Platform.xdc
+Platform.xs
+package/shareregion.sch
+package/.vers_g180
+package/.vers_r170
+package/.vers_b160
+package/.xdc-z52
+package/shareregion.java
+package/shareregion.class
+package/package_shareregion.c
+package/package.defs.h
+package/shareregion.ccs

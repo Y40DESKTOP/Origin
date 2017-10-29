@@ -1,0 +1,1 @@
+-l"./configPkg/linker.cmd" "./syslink_service.obj" "./syslink.obj" "./server.obj" "./resource_sync.obj" "./main_dsp.obj" "../Platform.lib" -l"libc.a" 

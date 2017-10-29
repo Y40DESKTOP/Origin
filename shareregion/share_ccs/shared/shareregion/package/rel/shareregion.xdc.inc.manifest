@@ -1,0 +1,17 @@
+shareregion/Platform.xdc
+shareregion/Platform.xs
+shareregion/config.bld
+shareregion/package/.vers_b160
+shareregion/package/.vers_g180
+shareregion/package/.vers_r170
+shareregion/package/.xdc-z52
+shareregion/package/build.cfg
+shareregion/package/package.bld.xml
+shareregion/package/package.defs.h
+shareregion/package/package_shareregion.c
+shareregion/package/shareregion.ccs
+shareregion/package/shareregion.class
+shareregion/package/shareregion.java
+shareregion/package/shareregion.sch
+shareregion/package.bld
+shareregion/package.xdc

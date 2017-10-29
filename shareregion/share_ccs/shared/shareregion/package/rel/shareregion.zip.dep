@@ -1,0 +1,34 @@
+shareregion.zip: Platform.xdc
+Platform.xdc:
+shareregion.zip: Platform.xs
+Platform.xs:
+shareregion.zip: config.bld
+config.bld:
+shareregion.zip: package/.vers_b160
+package/.vers_b160:
+shareregion.zip: package/.vers_g180
+package/.vers_g180:
+shareregion.zip: package/.vers_r170
+package/.vers_r170:
+shareregion.zip: package/.xdc-z52
+package/.xdc-z52:
+shareregion.zip: package/build.cfg
+package/build.cfg:
+shareregion.zip: package/package.bld.xml
+package/package.bld.xml:
+shareregion.zip: package/package.defs.h
+package/package.defs.h:
+shareregion.zip: package/package_shareregion.c
+package/package_shareregion.c:
+shareregion.zip: package/shareregion.ccs
+package/shareregion.ccs:
+shareregion.zip: package/shareregion.class
+package/shareregion.class:
+shareregion.zip: package/shareregion.java
+package/shareregion.java:
+shareregion.zip: package/shareregion.sch
+package/shareregion.sch:
+shareregion.zip: package.bld
+package.bld:
+shareregion.zip: package.xdc
+package.xdc:
